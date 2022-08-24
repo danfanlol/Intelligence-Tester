@@ -1,2 +1,2 @@
 # Intelligence-Tester
-Tests multiple types of Human Intelligence
+Tests and measures multiple types of human intelligence such as spatial, visual, verbal, and sequential intelligences. 
